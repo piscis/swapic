@@ -1,0 +1,7 @@
+default:
+  server:
+    host: '0.0.0.0'
+    port: 3000
+  pics:
+    - 'https://googledrive.com/host/0B5IRsLTwEO6CVExTcEE2R0pDUlU'
+    - 'https://googledrive.com/host/0B5IRsLTwEO6CLXI2aHhQOU9NTDA'
