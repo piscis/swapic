@@ -4,5 +4,5 @@ default:
     port: 3000
     cacheDir: './cache'
   pics:
-    - 'https://googledrive.com/host/0B5IRsLTwEO6CRGxVUmE3R3dfWlE'
-    - 'https://googledrive.com/host/0B5IRsLTwEO6CM0drVVRLcy1lMlk'
+    - 'https://files.vicoli.de/uploads/swappic/nike-just-do-it.jpg'
+    - 'https://files.vicoli.de/uploads/swappic/say-works-on-my-machine.jpg'
